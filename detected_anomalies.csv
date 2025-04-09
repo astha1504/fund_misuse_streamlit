@@ -1,0 +1,11 @@
+Department,Region,Fund_Allocated,Fund_Utilized,Duration_Months,AnomalyScore
+Health,West,928015,50000,31,-1
+Health,North,1093128,2000000,6,-1
+Health,South,10000000,999533,6,-1
+Transport,South,1100353,1177615,34,-1
+Health,North,1082190,10000,31,-1
+Defense,East,801243,1276420,27,-1
+Health,South,50000,837460,31,-1
+Defense,South,992555,1412327,9,-1
+Health,East,1219045,1080674,7,-1
+Education,South,921674,706982,6,-1
